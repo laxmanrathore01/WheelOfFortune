@@ -36,4 +36,4 @@ Player 1 - would you like to Spin (1) or Guess (2) the puzzle?
 
 *NOTE: Does not yet include a system to buy vowels. All letters can be guessed to gain money*
 
-*Under Construction*
+*Under   Construction*
