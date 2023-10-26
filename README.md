@@ -37,3 +37,4 @@ Player 1 - would you like to Spin (1) or Guess (2) the puzzle?
 *NOTE: Does not yet include a system to buy vowels. All letters can be guessed to gain money*
 
 *Under   Construction*
+![image](https://github.com/laxmanrathore01/WheelOfFortune/assets/120086351/df792e03-4eec-4e65-afd7-d748e91881e8)
