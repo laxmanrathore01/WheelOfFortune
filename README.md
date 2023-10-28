@@ -6,11 +6,9 @@
 
 
 ## INITIAL SCREEN
-
 Welcome to the Wheel of Fortune
 
 Available Letters - ABCDEFGHIJKLMNOPQRSTUVWXYZ
-
 Here is the puzzle (Movie):
 
 \-\-\- \-\-\-\-\-\- \-\-\-\- \-\- \-\-\-\-
@@ -33,7 +31,6 @@ Player 1 - would you like to Spin (1) or Guess (2) the puzzle?
 **Random Number 10:	$0**
 
 *NOTE: My puzzle is "The Secret Life of Bees"*
-
 *NOTE: Does not yet include a system to buy vowels. All letters can be guessed to gain money*
 
 *Under   Construction*
